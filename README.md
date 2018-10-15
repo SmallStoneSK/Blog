@@ -16,5 +16,6 @@
 
 <h3>高阶组件系列</h3>
 <ul>
+  <li><a href="https://github.com/SmallStoneSK/Blog/issues/7" target="_blank">高阶组件 + New Context API = ?</a></li>
   <li><a href="https://github.com/SmallStoneSK/Blog/issues/6" target="_blank">高阶组件HOC - 小试牛刀</a></li>
 </ul>
