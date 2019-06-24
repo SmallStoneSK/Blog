@@ -9,6 +9,7 @@
 
 <h3>Chrome插件系列</h3>
 <ul>
+  <li><a href="https://github.com/SmallStoneSK/Blog/issues/11" target="_blank">Chrome插件开发 - tab选项卡管理器</a></li>
   <li><a href="https://github.com/SmallStoneSK/Blog/issues/10" target="_blank">Chrome插件开发 - github仓库star趋势图</a></li>
 </ul>
 
