@@ -11,6 +11,7 @@
 <ul>
   <li><a href="https://github.com/SmallStoneSK/Blog/issues/12" target="_blank">用Flutter构建漂亮的UI界面 - 基础组件篇</a></li>
   <li><a href="https://github.com/SmallStoneSK/Blog/issues/13" target="_blank">Flutter滚动型容器组件 - ListView篇</a></li>
+  <li><a href="https://github.com/SmallStoneSK/Blog/issues/15" target="_blank">Flutter网格型布局 - GridView篇</a></li>
   <li><a href="https://github.com/SmallStoneSK/Blog/issues/14" target="_blank">在Flutter中使用自定义Icon</a></li>
 </ul>
 
