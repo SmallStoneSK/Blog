@@ -13,6 +13,7 @@
   <li><a href="https://github.com/SmallStoneSK/Blog/issues/13" target="_blank">Flutter滚动型容器组件 - ListView篇</a></li>
   <li><a href="https://github.com/SmallStoneSK/Blog/issues/15" target="_blank">Flutter网格型布局 - GridView篇</a></li>
   <li><a href="https://github.com/SmallStoneSK/Blog/issues/14" target="_blank">在Flutter中使用自定义Icon</a></li>
+  <li><a href="https://github.com/SmallStoneSK/Blog/issues/18" target="_blank">在Flutter中创建有意思的滚动效果 - Sliver系列</a></li>
 </ul>
 
 <h3>Chrome插件系列</h3>
